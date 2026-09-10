@@ -39,4 +39,4 @@ GarazniSustav/
 
 ## Dokumentacija
 
-Detaljna tehnička dokumentacija nalazi se u `dokumentacija/Dokumentacija seminarski rad.docx`.
+Detaljna tehnička dokumentacija nalazi se u `dokumentacija/Dokumentacija ugrađeni sustavi.docx`.
