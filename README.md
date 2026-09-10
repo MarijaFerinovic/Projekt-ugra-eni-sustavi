@@ -1,7 +1,7 @@
-# Projekt-ugra-eni-sustavi
-# GarazniSustav
+# Projekt-ugrađeni-sustavi
+# Garažni Sustav
 
-Arduino sustav za upravljanje dvostrukim garažnim vratima / parking rampama, s I2C OLED prikazom stanja u stvarnom vremenu.
+Arduino sustav za upravljanje dvostrukim garažnim vratima , parking rampama, s I2C OLED prikazom stanja u stvarnom vremenu.
 
 ## Značajke
 
